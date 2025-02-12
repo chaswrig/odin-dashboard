@@ -1,5 +1,6 @@
 # odin-dashboard
 Admin Dashboard project for learning CSS Grid
+https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard#project-solution
 
 Assignment
 
@@ -17,7 +18,7 @@ Fill out some dummy content and placeholder images so you can position all of yo
 Step 4: Gather assets
 Once you have your grid layout complete you can either recreate the dashboard example above or style your own design.
 All of the icons and more can be downloaded as SVGs from Material Design Icons.
-Choose your own fonts! The design example uses Roboto, which is available with Google fonts. (You may want to review the More Text Styles Lesson for information about how to include external fonts in your projects).
+Choose your own fonts! The design example uses Roboto.
 
 Step 5: Some tips!
 When building the layout, apply background colors or borders to your containers to help you visualize your grid.
