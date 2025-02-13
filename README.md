@@ -24,4 +24,3 @@ Step 5: Some tips!
 When building the layout, apply background colors or borders to your containers to help you visualize your grid.
 It’s up to you whether to use pixels, fr units or both for your grid tracks.
 This project does not have to be responsive, but if you’d like to you can expand or shrink the project cards section when resizing the browser window.
-
